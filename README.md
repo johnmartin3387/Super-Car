@@ -1,6 +1,6 @@
 ## Synopsis
 
-This project scrapes mobile information from http://www.ooyyo.com and displays prices by country, mobile make, mobile model and year with charts.
+This project scrapes mobile informations from http://www.ooyyo.com and displays it on the site.
 
 ## Technology Stack
 - Django
@@ -9,7 +9,6 @@ This project scrapes mobile information from http://www.ooyyo.com and displays p
 - SEO(sitemap, robots.txt ...)
 - Twitter Bootstrap
 - Jquery
-- Highcharts to draw graph
 
 ## Live Server
 http://www.supercarreport.com/
